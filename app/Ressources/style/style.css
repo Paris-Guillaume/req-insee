@@ -19,3 +19,7 @@ body {
 #search-container h2 {
     color: #495258;
 }
+
+#result-container {
+    background-color: #FFFFFF;
+}

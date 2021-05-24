@@ -9,7 +9,7 @@ final class SearchTest extends TestCase
         return [
             "un numéro de siret" => [12345678901234, 'siret'],
             "un numéro de siren" => [123456789, 'siren'],
-            "une raison sociale" => ['Lextenso', 'raisonSociale'],
+            "une raison sociale" => ['Lextenso', 'denominationUniteLegale'],
             "une chaine vide" => ['', ''],
         ];
     }

@@ -4,8 +4,9 @@
     "type": "project",
     "require": {
         "twig/twig": "^3.3",
-        "curl/curl": "^2.3",
-        "phpunit/phpunit": "^9.5"
+        "phpunit/phpunit": "^9.5",
+      "ext-curl": "*",
+      "ext-json": "*"
     },
     "license": "MIT",
     "authors": [
