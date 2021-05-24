@@ -1,0 +1,17 @@
+{
+    "name": "gparis/req-insee",
+    "description": "Application used to request INSEE API",
+    "type": "project",
+    "require": {
+        "twig/twig": "^3.3",
+        "curl/curl": "^2.3",
+        "symfony/routing": "^5.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Guillaume PARIS",
+            "email": "guillaumeparis_4@hotmail.com"
+        }
+    ]
+}
